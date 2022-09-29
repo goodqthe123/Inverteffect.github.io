@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../codecademyPJ"
+		},
+		{
+			"path": "../../codecademyPJ"
+		},
+		{
+			"path": "../../COFFEE"
+		},
+		{
+			"path": "../../CoffeeShop"
+		},
+		{
+			"path": "../grid"
+		},
+		{
+			"path": "../28_9"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "codecademyPJ"
+	}
+}
